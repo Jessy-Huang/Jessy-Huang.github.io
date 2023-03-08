@@ -26,48 +26,17 @@ $$
     </item>
     
     <item>
-      <title>Code Content</title>
+      <title>教育经历</title>
       <link>https://jessy-huang.github.io/posts/test/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jessy-huang.github.io/posts/test/</guid>
-      <description>&lt;h2 id=&#34;t1&#34;&gt;t1 &lt;a href=&#34;#t1&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;p&gt;Test &lt;a href=&#34;http://example.com&#34;&gt;aaa&lt;/a&gt; text.&lt;/p&gt;
-&lt;h3 id=&#34;t11&#34;&gt;t1.1 &lt;a href=&#34;#t11&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;h3 id=&#34;t12&#34;&gt;t1.2 &lt;a href=&#34;#t12&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;h4 id=&#34;t121&#34;&gt;t1.2.1 &lt;a href=&#34;#t121&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;h4 id=&#34;t122&#34;&gt;t1.2.2 &lt;a href=&#34;#t122&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;h2 id=&#34;t2&#34;&gt;t2 &lt;a href=&#34;#t2&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;aaaa&lt;/p&gt;
-&lt;h2 id=&#34;t3&#34;&gt;t3 &lt;a href=&#34;#t3&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;One&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;/&lt;code&gt; testing some code /&lt;/code&gt;&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Two&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Three&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;超宽显示 &lt;code&gt;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;&lt;/code&gt;  超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示 &lt;code&gt;var a = &amp;quot;text&amp;quot;;&lt;/code&gt;&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;2021-08-02 17:51:23.718 ERROR org.apache.flink.runtime.entrypoint.ClusterEntrypoint        [] - Fatal error occurred in the cluster entrypoint.
-org.apache.flink.util.FlinkException: Application failed unexpectedly.
-	at org.apache.flink.client.deployment.application.ApplicationDispatcherBootstrap.lambda$runApplicationAndShutdownClusterAsync$0(ApplicationDispatcherBootstrap.java:170) ~[flink-dist_2.12-1.13.1.jar:1.13.1]
-	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:836) ~[?:1.8.0_292]
-	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:811) ~[?:1.8.0_292]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_292]
-	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990) ~[?:1.8.0_292]
-	at org.apache.flink.client.deployment.application.ApplicationDispatcherBootstrap.runApplicationEntryPoint(ApplicationDispatcherBootstrap.java:257) ~[flink-dist_2.12-1.13.1.jar:1.13.1]
-	at org.apache.flink.client.deployment.application.ApplicationDispatcherBootstrap.lambda$runApplicationAsync$1(ApplicationDispatcherBootstrap.java:212) ~[flink-dist_2.12-1.13.1.jar:1.13.1]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
-	at org.apache.flink.runtime.concurrent.akka.ActorSystemScheduledExecutorAdapter$ScheduledFutureTask.run(ActorSystemScheduledExecutorAdapter.java:159) [flink-dist_2.12-1.13.1.jar:1.13.1]
-	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:40) [flink-dist_2.12-1.13.1.jar:1.13.1]
-	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:44) [flink-dist_2.12-1.13.1.jar:1.13.1]
-	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [flink-dist_2.12-1.13.1.jar:1.13.1]
-	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [flink-dist_2.12-1.13.1.jar:1.13.1]
-	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [flink-dist_2.12-1.13.1.jar:1.13.1]
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;test
-test
-test
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dhu.edu.cn/&#34;&gt;东华大学&lt;/a&gt; （211 双一流建设高校） 本科：东华大学工科学士  研究生：东华大学控制科学与工程学硕在读&lt;/strong&gt;
+&lt;strong&gt;主修课程&lt;/strong&gt;： 数据结构、面向对象程序设计（c++） 、 数电模电自控、 嵌入式系统、机器视觉
+模型与算法、数据分析与机器学习、 机器人控制技术等
+&lt;strong&gt;具备技能&lt;/strong&gt;： 精通 C/C++语言，熟练使用 Linux，精通 STM32、 ESP32、 MSP430、 arduino
+等开发板，熟练使用 Keil、 arduino、 MATLAB 等开发平台、熟悉人工智能算法&lt;/p&gt;
+</description>
     </item>
     
     <item>

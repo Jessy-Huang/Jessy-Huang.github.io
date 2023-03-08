@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>courses on Jessy&#39;s Site</title>
+    <link>https://jessy-huang.github.io/tags/courses/</link>
+    <description>Recent content in courses on Jessy&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jessy-huang.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教育经历</title>
+      <link>https://jessy-huang.github.io/posts/test/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessy-huang.github.io/posts/test/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dhu.edu.cn/&#34;&gt;东华大学&lt;/a&gt; （211 双一流建设高校） 本科：东华大学工科学士  研究生：东华大学控制科学与工程学硕在读&lt;/strong&gt;
+&lt;strong&gt;主修课程&lt;/strong&gt;： 数据结构、面向对象程序设计（c++） 、 数电模电自控、 嵌入式系统、机器视觉
+模型与算法、数据分析与机器学习、 机器人控制技术等
+&lt;strong&gt;具备技能&lt;/strong&gt;： 精通 C/C++语言，熟练使用 Linux，精通 STM32、 ESP32、 MSP430、 arduino
+等开发板，熟练使用 Keil、 arduino、 MATLAB 等开发平台、熟悉人工智能算法&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
