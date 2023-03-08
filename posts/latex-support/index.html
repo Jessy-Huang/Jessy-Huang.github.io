@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Jessy&#39;s Site</title>
+        <title>Latex Support | Jessy&#39;s Site</title>
         <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-<link rel="alternate" type="application/rss+xml" href="https://jessy-huang.github.io/categories/index.xml" title="Jessy's Site" />
 
 
 
 
+
+    <link rel="stylesheet" href="/lib/katex/katex.min.css">
+
+    
+    <script defer src="/lib/katex/katex.min.js"></script>
+
+    
+    <script defer src="/lib/katex/contrib/auto-render.min.js"
+        onload="renderMathInElement(document.body);"></script>
 
 
 
@@ -66,26 +74,44 @@
         <main class="main-wrapper">
             <div class="main">
                 
-    <section id="tags">
+
+<section class="single">
+    <h1 class="title">Latex Support</h1>
+
+    <div class="tip">
+        <time datetime="2022-09-20 09:36:26 &#43;0800 CST">2022/09/20</time>
+        <span class="split">·</span>
+        <span> 46 words </span>
+        <span class="split">·</span>
+        <span>
+            1 minutes to read
+        </span>
+    </div>
+
+    <div class="taxonomies">
         
+
         
-            
-                <span class="tag">
-                    <a href="syntax">
-                        syntax <span>(1)</span>
-                    </a>
-                </span>
-            
-        
-            
-                <span class="tag">
-                    <a href="themes">
-                        themes <span>(1)</span>
-                    </a>
-                </span>
-            
-        
-    </section>
+    </div>
+
+    <hr />
+
+    <div class="content">
+        <p>This article contians some test for latex support. Currently the lib used for rendering LaTeX is <a href="https://katex.org/">\(\KaTeX\)</a></p>
+<p>$$
+\pi=\int_{-\infty}^\infty\frac{dx}{1+x^2}
+$$</p>
+<h2 id="the-code-which-render-the-above">The code which render the above <a href="#the-code-which-render-the-above" class="anchor">🔗</a></h2><pre tabindex="0"><code>This article contians some test for latex support. Currently the lib used for rendering LaTeX is [\\(\KaTeX\\)](https://katex.org/)
+
+$$
+\pi=\int_{-\infty}^\infty\frac{dx}{1+x^2}
+$$
+</code></pre>
+    </div>
+
+    
+</section>
+
 
             </div>
             <div class="side">
@@ -216,11 +242,6 @@
 
         
             
-            
-                <a class="footer-item" href="https://jessy-huang.github.io/categories/index.xml">
-                    Feed of "Categories"
-                    <i class="icofont-rss"></i>
-                </a>
             
         
     </div>
